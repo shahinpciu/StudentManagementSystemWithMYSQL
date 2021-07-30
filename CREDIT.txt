@@ -1,0 +1,10 @@
+Student Management System With MySQL Database
+
+Group: 02
+OOp Final Project
+
+<<Group Member>>
+1. Md Shahin Shah Shahin (Leader)
+2.Ekram Hossen
+3. Abu Dozhana Md Safwan
+
